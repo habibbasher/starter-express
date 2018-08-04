@@ -1,0 +1,2 @@
+{"message":"Started on port 3002, To stop the server press ctrl + c","level":"info"}
+{"message":"Express server connected with mongodb on localhost","level":"info"}
